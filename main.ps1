@@ -57,4 +57,4 @@ Opciones del script:
                      -Activate (on)
                      -Cleaner (S)
                      -Firewall
-                     -Cortana (off o remove)" }
+                     -Cortana (remove)" }
