@@ -7,7 +7,7 @@
 
 # Desinstalar o desactivar cortana
 Function cortana_app {
-	if( $Cortana.Equals("off") ){
+	if( $Cortana.Equals("remove") ){
 		Get-AppxPackage -allusers Microsoft.549981C3F5F10 | Remove-AppxPackage
 	}
 }
